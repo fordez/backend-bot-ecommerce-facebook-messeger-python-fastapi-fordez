@@ -1,0 +1,22 @@
+object = 'page' 
+entry = [
+    {
+        'id': '108028850539200', 
+        'time': 1635474566855, 
+        'messaging': [
+            {
+                'sender': {
+                    'id': '3499442773431846'
+                    }, 
+                    'recipient': {
+                        'id': '108028850539200'
+                        }, 
+                        'timestamp': 1635474566617, 
+                        'message': {
+                            'mid': 'm__np4qBDguMDmU4cw-7KmuKVhbgMF8KHjLXz7mzE035HuzxIMvm4VFey9Wy7jGDVl-0MPJgB6FazfQu0nUGfbng', 
+                            'text': 'Hola fordez, este mensaje es enviado desde messenger facebook'
+                            }
+                    }
+                ]
+            }
+        ]
